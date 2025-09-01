@@ -37,7 +37,3 @@ Este projeto consiste em uma análise exploratória de dados (EDA) e modelagem p
 
 3. **Execute as células do notebook:**  
    Clique em "Run" para executar cada célula e acompanhar a análise dos dados.
-
-## Contato
-
-Dúvidas ou sugestões? Abra uma issue ou entre em contato pelo [seu email ou github].
